@@ -16,7 +16,7 @@ Approach    | 936 elements  | 9360 elements |93600 elements |936000 elements|936
 
 Here are the results using an AMD Opteron 6272 with 2.10GHz and 16 cores (via [Mogon](www.hpc.uni-mainz.de)):
 
-Approach    | 936 element s  | 9360 element s |93600 element s |936000 element s|9360000 element s|
+Approach    | 936 elements  | 9360 elements |93600 elements |936000 elements|9360000 elements|
 ------------|---------------|---------------|---------------|---------------|----------------|
 0           |   0.0 s    |  0.013 s    |  0.117 s    |  1.168 s    |  11.951 s     |
 1           |   0.0 s      |  0.0 s     |  0.001 s    |  0.022 s    |  0.251 s     |
