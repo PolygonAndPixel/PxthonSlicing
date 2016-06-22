@@ -166,7 +166,7 @@ time_4 = 0.0
 time_5 = 0.0
 time_6 = 0.0
 
-for j in range(0,4):
+for j in range(0,5):
     for i in range(iterations):
         example_list, dictionary = createData(number_of_elements)
         start = time.clock()
